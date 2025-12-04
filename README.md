@@ -1,3 +1,5 @@
+![ChenZixinn-github-cards](https://raw.githubusercontent.com/ChenZixinn/img_repository/master/ChenZixinn-github-cards.png)
+
 - 👋 Hi, I’m @TzuxinChen
 - 👀 I love coding💻
 - 🌱 I’m currently focused on AI🤖
