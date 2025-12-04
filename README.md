@@ -1,6 +1,4 @@
-![ChenZixinn-github-cards](https://raw.githubusercontent.com/ChenZixinn/img_repository/master/ChenZixinn-github-cards.png)
-
-- 👋 Hi, I’m @TzuxinChen
+- 👋 Hi, I’m Allen Chen
 - 👀 I love coding💻
 - 🌱 I’m currently focused on AI🤖
 - 🏙️ I'm based in Shenzhen,China📍
@@ -31,8 +29,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
-
-## 👨🏻‍💻 Laptop in use 
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_M4_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/>
-
-
