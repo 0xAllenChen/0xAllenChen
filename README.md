@@ -2,7 +2,7 @@
 - 👀 I love coding💻
 - 🌱 I’m currently focused on AI🤖
 - 🏙️ I'm based in Shenzhen,China📍
-- 📫 How to reach me -- tzuxinchen@gmail.com
+- 📫 How to reach me -- 0xallenchen@gmail.com
 
 
 <p>
