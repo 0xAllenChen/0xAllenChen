@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Allen Chen
-- 👀 I love coding💻
+- 👀 I love ~~coding~~ vibe coding💻
 - 🌱 I’m currently focused on AI🤖
 - 🏙️ I'm based in Shenzhen,China📍
 - 📫 How to reach me -- 0xallenchen@gmail.com
